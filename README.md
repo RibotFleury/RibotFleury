@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 A Full-Stack Developer by day ☼ and a Tech Enthusiast by night ☾
-Full-Stack Developer at [Your Company];
+
 Passionate about building scalable web applications and delivering seamless user experiences.
 
 ⚙️ I use daily: .ruby, .js, .html, .css, .react, .redux, .postgresql, .git
